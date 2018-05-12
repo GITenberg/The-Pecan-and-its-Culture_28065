@@ -1,0 +1,28 @@
+_repo: The-Pecan-and-its-Culture_28065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hume, H. Harold (Hardrada Harold)
+    alias: Hume, Hardrada Harold
+    birthdate: 1875
+    deathdate: 1965
+    gutenberg_agent_id: '33116'
+    url: http://www.gutenberg.org/2009/agents/33116
+description: ''
+gutenberg_issued: '2009-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28065'
+  lccn: 06036198
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pecan'
+- !lcc 'SB'
+title: The Pecan and its Culture
+url: http://www.gutenberg.org/ebooks/28065
